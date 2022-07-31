@@ -1,0 +1,1 @@
+Desenvolvi essa automação web utilizando python , com a biblioteca selenium , o objetivo da automação é fazer o download automatico da mensalidade da faculdade , o projeto ainda não esta concluido

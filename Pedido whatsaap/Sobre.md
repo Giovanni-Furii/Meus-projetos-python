@@ -1,0 +1,1 @@
+Desenvolvi essa automação para facilitar o envio de pedidos aos fornecedores da loja em que trabalho
